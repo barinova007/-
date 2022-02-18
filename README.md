@@ -1,3 +1,3 @@
-# linux
-Linux terminal (GitBash) commands
+## linux
+##Linux terminal (GitBash) commands
 ## practice https://learngitbranching.js.org/ 
